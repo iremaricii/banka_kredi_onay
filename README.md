@@ -4,4 +4,4 @@ Bu çalışmada iki temel yöntem uygulanmıştır:
 
 1.Yapay Sinir Ağı (ANN) Modeli: TensorFlow/Keras kullanılarak bir model eğitildi ve kredi onayı tahmini yapıldı.
 
-2.Manuel Hesaplama ve Doğrulama: Modelin öğrendiği ağırlıklar manuel olarak hesaplanarak, yapay sinir ağlarının nasıl çalıştığı açıklandı.
+2.Manuel Hesaplama ve Doğrulama: Modelin öğrendiği ağırlıklar manuel olarak hesaplandı.
